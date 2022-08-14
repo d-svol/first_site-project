@@ -1,0 +1,275 @@
+@media (max-width: 1400px) {
+    .decor__radius2 {
+        display: none;
+    }
+}
+
+@media (max-width: 1370px) {
+    .footer {
+        .header__svg {
+            padding-left: 0px;
+        }
+    }
+}
+
+@media (max-width: 1320px) {
+    .questions__inner {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+
+    .questions__inner-right {
+        margin-top: 30px;
+    }
+
+    .footer__inner-box {
+        padding: 15px;
+    }
+
+    .header__svg {
+        .link-tvit:first-child {
+            margin-left: 0px;
+        }
+    }
+
+    .header__svg {
+        display: flex;
+    }
+
+    .footer .footer__inner {
+        flex-wrap: nowrap;
+    }
+}
+
+@media (max-width: 1290px) {
+    .story .story__meny__aside:target {
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: flex-end;
+        align-content: flex-start;
+
+        .story__aside__image {
+            margin-top: 20px;
+            margin-left: 40px;
+        }
+    }
+
+    .join__inner {
+        flex-direction: column;
+        padding-top: 40px;
+        align-items: center;
+    }
+
+    .join__inner-right {
+        padding-top: 60px;
+    }
+
+    .meta__inner {
+        padding-right: 60px;
+    }
+
+    .header__svg {
+        margin: 20px;
+    }
+}
+
+@media (max-width: 1190px) {
+    .footer .footer__inner-box .footer__inner-box-text {
+        padding-left: 0px;
+    }
+
+    .logoholder .logoholder__inner a:nth-child(n+3) {
+        display: none;
+    }
+}
+
+@media (max-width: 1105px) {
+    .story .container {
+        padding-right: 60px;
+    }
+
+    .artists__box {
+        padding-right: 60px;
+    }
+
+    .meta__menu {
+        padding-left: 60px;
+    }
+
+    .meta__inner {
+        padding-left: 0;
+        padding-right: 0px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .story .story__meny {
+        display: flex;
+        justify-content: start;
+        padding-top: 70px;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .artists__box{
+        padding-top: 20px;
+        justify-content: center;
+        padding-right: 0px;
+    }
+}
+
+@media (max-width: 1060px) {
+    .footer .footer__inner-box .footer__inner-box-text {
+        padding-left: 0px;
+    }
+
+    .footer .footer__inner {
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+
+    .join__inner {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+@media (max-width: 975px) {
+    .header_menu {
+        flex-direction: column;
+    }
+
+    .header__svg {
+        margin-left: 0px;
+    }
+
+    .line_text1 {
+        display: none;
+    }
+
+    .line__box-team .line_text2 {
+        left: 40%;
+    }
+
+    .line_text3 {
+        display: none;
+    }
+
+    .line__box-team {
+        align-items: center;
+    }
+    
+}
+
+@media (max-width: 745px) {
+    .header__inner {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .footer .footer__inner {
+        justify-content: flex-start;
+        align-items: flex-start;
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 630px) {
+
+    .roadmap__inner-box1 {
+        left: calc(60% - 540px/2);
+    }
+
+    .roadmap__inner-box2 {
+        left: calc(60% - 540px/2);
+    }
+
+    .roadmap__inner-box3 {
+        left: calc(60% - 540px/2);
+    }
+
+    .roadmap__inner-box {
+        width: 412px;
+    }
+
+    .story .story__meny__aside {
+        padding: 30px 20px;
+    }
+
+    .story .story__aside__text {
+        padding-left: 0px;
+    }
+
+    .meta__menu__left .meta__menu__left-box {
+        padding-left: 20px;
+    }
+
+    .meta__menu {
+        padding-left: 20px;
+    }
+    .line_text2{
+        left: 0%;
+    }
+    .artists__box{
+        padding-top: 20px;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 530px) {
+    .roadmap__inner-floor {
+        padding: 28px 20px;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .roadmap__inner-box1 {
+        left: 10%;
+    }
+
+    .roadmap__inner-box2 {
+        left: 10%;
+    }
+
+    .roadmap__inner-box3 {
+        left: 10%;
+    }
+
+    .roadmap__inner-box {
+        width: 312px;
+    }
+
+    .roadmap__inner-box1 {
+        top: 60px;
+    }
+
+    .roadmap__inner-box2 {
+        top: 600px;
+    }
+
+    .roadmap__inner-box3 {
+        top: 1200px;
+    }
+    
+}
+
+@media (max-width: 460px) {
+    .header__menu-str {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .header__menu-str li{
+        margin-left: 0px;
+    }
+    .section__menu{
+        margin: 0px;
+        padding: 20px;
+    }
+    
+
+}
